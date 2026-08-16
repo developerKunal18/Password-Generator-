@@ -1,0 +1,8 @@
+Project structure:
+
+Password-Generator/
+│
+├── main.py
+├── password_generator.py
+├── README.md
+└── .gitignore
